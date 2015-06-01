@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (1.6.1)
+    rulers (0.0.1)
+      rack
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  rulers
